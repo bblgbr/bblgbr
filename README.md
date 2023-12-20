@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning in Beihang University.
+- 🔭 I'm interested in computer vision and investigate on learning compression method.
+
 <!--
 **bblgbr/bblgbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
